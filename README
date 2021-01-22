@@ -1,2 +1,6 @@
-This is a readme file for our os project of pthreads against openmp
+implemented 3 different sorting algorithms; Quick Sort, Merge Sort and Heap Sort. 
+
+Each algorithm is implemented using three approaches; Pthreads, OpenMP and normal sequential C programming on Ubuntu. 
+The codes were then compared with various constraints.
+
 
